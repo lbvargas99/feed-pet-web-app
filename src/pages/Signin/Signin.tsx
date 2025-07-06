@@ -1,5 +1,10 @@
 import { useForm } from "react-hook-form";
 
+/*
+  fazer o esqueci a senha
+  e o cadastrar
+*/
+
 function Signin() {
   const {
     register,
